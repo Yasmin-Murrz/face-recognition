@@ -10,4 +10,6 @@ I encountered errors relating to user access
 Here's the solution:
 pip install <package> --no-user
 
+press 'q' to quit the application
+
 Happy coding!
