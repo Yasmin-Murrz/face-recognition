@@ -1,4 +1,6 @@
-This python script was taken from the YT channel Indently : 
+This project was made for my internship in Computer Science.
+
+This python script was taken from the YT channel Indently :
 https://www.youtube.com/watch?v=tl2eEBFEHqM&t=321s&ab_channel=Indently
 
 Use the appropriate dlib library for your Python version.
